@@ -1,5 +1,5 @@
 //Main class to test the stack implementation
-public class Main {
+public class MainStack {
     public static void main(String[] args) {
         LinkedListStack stack = new LinkedListStack();
 
