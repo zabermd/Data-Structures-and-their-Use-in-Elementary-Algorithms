@@ -1,5 +1,3 @@
-package ChapterFour;
-
 // HashTable class with generic key-value support and duplicate key handling
 public class HashTable<K, V> {
     private int size;
